@@ -1,7 +1,6 @@
 from selenium import webdriver
 import speech_recognition as sr
 import playsound
-import pyautogui
 from gtts import gTTS
 import os
 
